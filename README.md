@@ -25,9 +25,9 @@ O dashboard visa permitir a visualização e análise de métricas fundamentais 
 - Filtro para alternar entre diferentes anos de análise (2011, 2012, 2013), permitindo a exploração detalhada de períodos específicos.
 
 ## 🖼️ Visualização do Dashboard
-!([]https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/home.png)
-!([]https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/visao%20geral.png)
-!([]https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/clientes.png)
+![](https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/home.png)
+![](https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/visao%20geral.png)
+![](https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/clientes.png)
 
 ## 🔍 Análises e Insights
 
