@@ -26,8 +26,8 @@ O dashboard visa permitir a visualização e análise de métricas fundamentais 
 
 ## 🖼️ Visualização do Dashboard
 !([]https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/home.png)
-!([]https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/visao%20geral.png
-!([]https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/clientes.png
+!([]https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/visao%20geral.png)
+!([]https://github.com/KaueMartinsDelPoente/dashboard-de-vendas-/blob/main/clientes.png)
 
 ## 🔍 Análises e Insights
 
